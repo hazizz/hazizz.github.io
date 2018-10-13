@@ -34,6 +34,11 @@ body {
     display: inherit;
 }
 
+.border-thick{
+    border-width: thick !important;
+    border-color: #e9f1df !important;
+}
+
 @font-face {
     font-family: 'Architects Daughter';
     src: url('../assets/ArchitectsDaughter.ttf') format('truetype');
