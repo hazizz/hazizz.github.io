@@ -8,9 +8,18 @@
     background-size: cover;
 }
 
+.navbar-nav > li{
+    padding-left:10%;
+    padding-right:10%;
+}
+
 html,
 body {
     height: 100%;
+}
+
+.navbar-nav>li {
+    float: right
 }
 
 body {
