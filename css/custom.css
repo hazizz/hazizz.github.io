@@ -1,16 +1,36 @@
 .carousel-item {
     height: 100vh;
     min-height: 300px;
-    background: no-repeat center center scroll;
+    background: linear-gradient(#828a78, #36b1bf) no-repeat scroll center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 
-.navbar-nav > li{
-    padding-left:10%;
-    padding-right:10%;
+div.col-sm{
+    margin-top: 10%;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #e9f1df;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
+    color: black;
+}
+
+.nav-item{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+footer.footer.fixed-bottom{
+    background:#36b1bf;
+}
+
+.text-muted{
+    color: white!important;
 }
 
 html,
