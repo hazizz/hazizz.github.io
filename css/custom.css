@@ -9,7 +9,15 @@
 }
 
 div.col-sm{
-    margin-top: 10%;
+    margin-top: 15%;
+}
+
+div.col-sm.smallpadding{
+    margin-top: 5%;
+}
+
+div.col-sm.last{
+    margin-bottom: 15%;
 }
 
 .navbar-dark .navbar-nav .nav-link{
@@ -23,6 +31,10 @@ div.col-sm{
 .nav-item{
     padding-right: 10%;
     padding-left: 10%;
+}
+
+a.list-group-item{
+    word-break: break-all;
 }
 
 footer.footer.fixed-bottom{
