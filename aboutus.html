@@ -36,55 +36,48 @@
     </nav>
 </header>
 
-<div class="container">
+<div class="container pt-5">
+    <h1 class="display-4 font-weight-normal">A csapatról:</h1>
+    <p class="lead">Egy csapat pesti diák vagyunk akik úgy érezték, hogy
+        egyetlen platform se próbálja megoldani az ezer éves problémát, hogy mi volt a házi?</p>
+
+    <h2 class="display-4 font-weight-normal">A tagokról:</h2>
+    <p class="lead">Feladat? Név? Mottó?</p>
     <div class="row">
-
-        <div class="col-sm">
-            <h1 class="display-4 font-weight-normal">A csapatról:</h1>
-            <p class="lead font-weight-normal">Egy csapat pesti diák vagyunk akik úgy érezték, hogy
-                egyetlen platform se próbálja megoldani az ezer éves problémát, hogy mi volt a házi?</p>
+        <div class="col-6">
+            <div class="list-group" id="list-tab" role="tablist">
+                <a class="list-group-item list-group-item-action active display-12" id="list-home-list" data-toggle="list" href="#list-hg" role="tab" aria-controls="home">Horváth Gergely</a>
+                <a class="list-group-item list-group-item-action display-12" id="list-profile-list" data-toggle="list" href="#list-ie" role="tab" aria-controls="profile">Isakov Erik</a>
+                <a class="list-group-item list-group-item-action display-12" id="list-messages-list" data-toggle="list" href="#list-la" role="tab" aria-controls="messages">Leszkovszky Alexandra</a>
+                <a class="list-group-item list-group-item-action display-12" id="list-settings-list" data-toggle="list" href="#list-sk" role="tab" aria-controls="settings">Stefán Kornél</a>
+            </div>
         </div>
-
-        <div class="w-100"></div>
-        <div class="col-sm text-center smallpadding">
-            <h2 class="display-4 font-weight-normal ">A tagokról:</h2>
-            <div class="row">
-                <div class="col-6">
-                    <div class="list-group" id="list-tab" role="tablist">
-                        <a class="list-group-item list-group-item-action active display-12" id="list-home-list" data-toggle="list" href="#list-hg" role="tab" aria-controls="home">Horváth Gergely</a>
-                        <a class="list-group-item list-group-item-action display-12" id="list-profile-list" data-toggle="list" href="#list-ie" role="tab" aria-controls="profile">Isakov Erik</a>
-                        <a class="list-group-item list-group-item-action display-12" id="list-messages-list" data-toggle="list" href="#list-la" role="tab" aria-controls="messages">Leszkovszky Alexandra</a>
-                        <a class="list-group-item list-group-item-action display-12" id="list-settings-list" data-toggle="list" href="#list-sk" role="tab" aria-controls="settings">Stefán Kornél</a>
-                    </div>
+        <div class="col-6">
+            <div class="tab-content" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="list-hg" role="tabpanel" aria-labelledby="list-home-list">
+                    <h3>CMO</h3>
+                    <h4>Horváth "Gergő" Gergely</h4>
+                    <p class="text-cemter">Ezen felül hallgat a következőkre:
+                        Béla, OK Google, És a Házizz team macskájának a gazdájára</p>
                 </div>
-                <div class="col-6">
-                    <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active" id="list-hg" role="tabpanel" aria-labelledby="list-home-list">
-                            <h3>CMO</h3>
-                            <h4>Horváth "Gergő" Gergely</h4>
-                            <p class="text-left">Ezen felül hallgat a következőkre:
-                                Béla, OK Google, És a Házizz team macskájának a gazdájára</p>
-                        </div>
-                        <div class="tab-pane fade" id="list-ie" role="tabpanel" aria-labelledby="list-profile-list">
-                            <h3>Android részleg vezetője</h3>
-                            <h4>Isakov "Zsarnok" Erik</h4>
-                            <p class="text-left">Nincs arany köpésem: fantáziátlan vagyok</p>
-                        </div>
-                        <div class="tab-pane fade" id="list-la" role="tabpanel" aria-labelledby="list-messages-list">
-                            <h3>CDO</h3>
-                            <h4>Leszkovszky "Alexa 👌" Alexandra</h4>
-                            <p class="text-left">Az nincs 😶 találjatok ki egyet 😂</p>
-                        </div>
-                        <div class="tab-pane fade" id="list-sk" role="tabpanel" aria-labelledby="list-settings-list">
-                            <h3>CIO</h3>
-                            <h4>Stefán "Kőőőrnél" Kornél</h4>
-                            <p class="text-left">Helló! Béla vagyok!</p>
-                        </div>
-                    </div>
-                    <br>
-                    <br>
+                <div class="tab-pane fade" id="list-ie" role="tabpanel" aria-labelledby="list-profile-list">
+                    <h3>Android részleg vezetője</h3>
+                    <h4>Isakov "Zsarnok" Erik</h4>
+                    <p class="text-center">Nincs arany köpésem: fantáziátlan vagyok</p>
+                </div>
+                <div class="tab-pane fade" id="list-la" role="tabpanel" aria-labelledby="list-messages-list">
+                    <h3>CDO</h3>
+                    <h4>Leszkovszky "Alexa 👌" Alexandra</h4>
+                    <p class="text-center">Az nincs 😶 találjatok ki egyet 😂</p>
+                </div>
+                <div class="tab-pane fade" id="list-sk" role="tabpanel" aria-labelledby="list-settings-list">
+                    <h3>CIO</h3>
+                    <h4>Stefán "Kőőőrnél" Kornél</h4>
+                    <p class="text-center">Helló! Béla vagyok!</p>
                 </div>
             </div>
+            <br>
+            <br>
         </div>
     </div>
 </div>
