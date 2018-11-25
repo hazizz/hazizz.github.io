@@ -1,67 +1,36 @@
-.carousel-item {
-    height: 100vh;
-    min-height: 300px;
-    background: linear-gradient(#828a78, #36b1bf) no-repeat scroll center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+.container {
+    max-width: 960px;
 }
 
-div.col-sm{
-    margin-top: 15%;
+/*
+ * Dummy devices (replace them with your own or something else entirely!)
+ */
+
+.product-device-2 {
+    top: -25%;
+    right: auto;
+    bottom: 0;
+    left: 5%;
+    background-color: #e5e5e5;
 }
 
-div.col-sm.smallpadding{
-    margin-top: 5%;
+
+/*
+ * Extra utilities
+ */
+
+.flex-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+}
+@media (min-width: 768px) {
+    .flex-md-equal > * {
+        -ms-flex: 1;
+        flex: 1;
+    }
 }
 
-div.col-sm.last{
-    margin-bottom: 15%;
-}
-
-.navbar-dark .navbar-nav .nav-link{
-    color: #e9f1df;
-}
-
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
-    color: black;
-}
-
-.nav-item{
-    padding-right: 10%;
-    padding-left: 10%;
-}
-
-a.list-group-item{
-    word-break: break-all;
-}
-
-footer.footer.fixed-bottom{
-    background:#36b1bf;
-}
-
-.text-muted{
-    color: white!important;
-}
-
-html,
-body {
-    height: 100%;
-}
-
-.navbar-nav>li {
-    float: right
-}
-
-body {
-    display: -ms-flexbox;
-    display: flex;
-}
-
-.cus-vh-100{
-    height: 100vh;
-}
+.overflow-hidden { overflow: hidden; }
 
 .title-font-family{
     font-family: "Architects Daughter";
@@ -69,15 +38,6 @@ body {
 
 .description-font-family{
     font-family: "Bentham";
-}
-
-.d-md, .d{
-    display: inherit;
-}
-
-.border-thick{
-    border-width: thick !important;
-    border-color: #e9f1df !important;
 }
 
 @font-face {
