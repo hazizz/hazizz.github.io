@@ -1,101 +1,101 @@
-Házizz
+ï»¿HÃ¡zizz
  
-A Házizz adatvédelmi nyilatkozata
+A HÃ¡zizz adatvÃ©delmi nyilatkozata
 
-Adatvédelmi nyilatkozat: 
+AdatvÃ©delmi nyilatkozat: 
 
-Hatálybalépés dátuma: 2018. 11. 12
+HatÃ¡lybalÃ©pÃ©s dÃ¡tuma: 2018. 11. 12
 
-Házizz (továbbiakban „mi”, „nekünk”) https://hazizz.github.io (továbbiakban „Szolgáltatás”)
+HÃ¡zizz (tovÃ¡bbiakban â€miâ€, â€nekÃ¼nkâ€) https://hazizz.github.io (tovÃ¡bbiakban â€SzolgÃ¡ltatÃ¡sâ€)
 
-Ez egy tájékoztató oldal az adatvédelmi irányelveinkrõl, a felhasználói adatok gyûjtésérõl, felhasználásáról és megosztásáról harmadik fél felé. A felhasználói adatokat a Szolgáltatás fejlesztésére használjuk. A weboldal használatával elfogadod a személyes adatok gyûjtését és felhasználását ezzel a nyilatkozattal egyetemesen. Amíg a nyilatkozat máshogy nem határoz az ebben a nyilatkozatban használt kifejezések ugyanazt jelentik mint az Általános Szerzõdési Feltételekben (továbbiakban „ÁSZF”) foglaltak.
+Ez egy tÃ¡jÃ©koztatÃ³ oldal az adatvÃ©delmi irÃ¡nyelveinkrÃµl, a felhasznÃ¡lÃ³i adatok gyÃ»jtÃ©sÃ©rÃµl, felhasznÃ¡lÃ¡sÃ¡rÃ³l Ã©s megosztÃ¡sÃ¡rÃ³l harmadik fÃ©l felÃ©. A felhasznÃ¡lÃ³i adatokat a SzolgÃ¡ltatÃ¡s fejlesztÃ©sÃ©re hasznÃ¡ljuk. A weboldal hasznÃ¡latÃ¡val elfogadod a szemÃ©lyes adatok gyÃ»jtÃ©sÃ©t Ã©s felhasznÃ¡lÃ¡sÃ¡t ezzel a nyilatkozattal egyetemesen. AmÃ­g a nyilatkozat mÃ¡shogy nem hatÃ¡roz az ebben a nyilatkozatban hasznÃ¡lt kifejezÃ©sek ugyanazt jelentik mint az ÃltalÃ¡nos SzerzÃµdÃ©si FeltÃ©telekben (tovÃ¡bbiakban â€ÃSZFâ€) foglaltak.
 
-A felhasználói adatok gyûjtése és használata:
+A felhasznÃ¡lÃ³i adatok gyÃ»jtÃ©se Ã©s hasznÃ¡lata:
 
-Több féle felhasználói adatot gyûjtünk a Szolgáltatás fenttartásáért és javításáért.
+TÃ¶bb fÃ©le felhasznÃ¡lÃ³i adatot gyÃ»jtÃ¼nk a SzolgÃ¡ltatÃ¡s fenttartÃ¡sÃ¡Ã©rt Ã©s javÃ­tÃ¡sÃ¡Ã©rt.
  
-A gyûjtött a felhasználói adatok:
+A gyÃ»jtÃ¶tt a felhasznÃ¡lÃ³i adatok:
 
-A Szolgáltatás használata közben kérhetünk olyan felhasználói adatokat amelyekkel a felhasználóval kapcsolatba lehet lépni vagy azonosítani õt. A gyûjtött felhasználót azonosító adatok lehetnek de nem korlátozottak:
+A SzolgÃ¡ltatÃ¡s hasznÃ¡lata kÃ¶zben kÃ©rhetÃ¼nk olyan felhasznÃ¡lÃ³i adatokat amelyekkel a felhasznÃ¡lÃ³val kapcsolatba lehet lÃ©pni vagy azonosÃ­tani Ãµt. A gyÃ»jtÃ¶tt felhasznÃ¡lÃ³t azonosÃ­tÃ³ adatok lehetnek de nem korlÃ¡tozottak:
 
-* e-mail cím
-* sütik. 
+* e-mail cÃ­m
+* sÃ¼tik. 
 
 
-Felhasználási adatok 
+FelhasznÃ¡lÃ¡si adatok 
 
-Gyûjthetünk arról adatokat, hogy hogyan éri el és használja a Felhasználó az oldalt (továbbiakban „felhasználási adatok”). Ez a Felhasználási adat tartalmazhat olyan információt, mint például: a felhasználó számítógépének IP címét, a látogatás idejét és dátumát. 
+GyÃ»jthetÃ¼nk arrÃ³l adatokat, hogy hogyan Ã©ri el Ã©s hasznÃ¡lja a FelhasznÃ¡lÃ³ az oldalt (tovÃ¡bbiakban â€felhasznÃ¡lÃ¡si adatokâ€). Ez a FelhasznÃ¡lÃ¡si adat tartalmazhat olyan informÃ¡ciÃ³t, mint pÃ©ldÃ¡ul: a felhasznÃ¡lÃ³ szÃ¡mÃ­tÃ³gÃ©pÃ©nek IP cÃ­mÃ©t, a lÃ¡togatÃ¡s idejÃ©t Ã©s dÃ¡tumÃ¡t. 
 
-Süti adatok:
+SÃ¼ti adatok:
 
-A Szolgáltatás sütiket és hasonló technológiákat használ a különbözõ információk tárolására és a Szolgáltatáson végzett aktivitás követésére.
-A sütik olyan fájlok, amik tartalmazhatnak kismennyiségû adatot és egy anonim egyedi azonosítót. A sütiket a böngészõ küldi, és a Felhasználó eszköze tárolja. 
+A SzolgÃ¡ltatÃ¡s sÃ¼tiket Ã©s hasonlÃ³ technolÃ³giÃ¡kat hasznÃ¡l a kÃ¼lÃ¶nbÃ¶zÃµ informÃ¡ciÃ³k tÃ¡rolÃ¡sÃ¡ra Ã©s a SzolgÃ¡ltatÃ¡son vÃ©gzett aktivitÃ¡s kÃ¶vetÃ©sÃ©re.
+A sÃ¼tik olyan fÃ¡jlok, amik tartalmazhatnak kismennyisÃ©gÃ» adatot Ã©s egy anonim egyedi azonosÃ­tÃ³t. A sÃ¼tiket a bÃ¶ngÃ©szÃµ kÃ¼ldi, Ã©s a FelhasznÃ¡lÃ³ eszkÃ¶ze tÃ¡rolja. 
 
-A Felhasználó beállíthatja a böngészõjében, hogy a böngészõ megtagadja asz összes sütit, vagy jelezze, ha a böngészõ sütit küld. Azonban ha a felhasználó megtagadja a sütik használatát, a Szolgáltatás néhány része elérhetetlenné válhat.
+A FelhasznÃ¡lÃ³ beÃ¡llÃ­thatja a bÃ¶ngÃ©szÃµjÃ©ben, hogy a bÃ¶ngÃ©szÃµ megtagadja asz Ã¶sszes sÃ¼tit, vagy jelezze, ha a bÃ¶ngÃ©szÃµ sÃ¼tit kÃ¼ld. Azonban ha a felhasznÃ¡lÃ³ megtagadja a sÃ¼tik hasznÃ¡latÃ¡t, a SzolgÃ¡ltatÃ¡s nÃ©hÃ¡ny rÃ©sze elÃ©rhetetlennÃ© vÃ¡lhat.
 
-Az általunk használt sütik: 
+Az Ã¡ltalunk hasznÃ¡lt sÃ¼tik: 
 
-* Ideiglenes sütik. A szolgáltatás mûködtetésére használjuk az ideiglenek sütiket.
-* Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-* Biztonsági sütik. A biztonsági sütiket biztonsági célokra használjuk. 
+* Ideiglenes sÃ¼tik.Â A szolgÃ¡ltatÃ¡s mÃ»kÃ¶dtetÃ©sÃ©re hasznÃ¡ljuk az ideiglenek sÃ¼tiket.
+* Preference Cookies.Â We use Preference Cookies to remember your preferences and various settings.
+* BiztonsÃ¡gi sÃ¼tik.Â A biztonsÃ¡gi sÃ¼tiket biztonsÃ¡gi cÃ©lokra hasznÃ¡ljuk. 
 
-Felhasználó adatok felhasználása
+FelhasznÃ¡lÃ³ adatok felhasznÃ¡lÃ¡sa
 
-A Házizz az összegyûjtött felhasználói adatokat különbözõ célokra használja fel:
+A HÃ¡zizz az Ã¶sszegyÃ»jtÃ¶tt felhasznÃ¡lÃ³i adatokat kÃ¼lÃ¶nbÃ¶zÃµ cÃ©lokra hasznÃ¡lja fel:
 
-* A Szolgáltatás fenntartásához
-* A Szolgáltatásban beállt változásokról való értesítéshez
-* A Felhasználónak biztosítani a Szolgáltatás interaktív funkcióiban való részvételt, amikor a Felhasználó úgy dönt
-* Az ügyféltámogatás céljára
-* A Szolgáltatás fejlesztésére szolgáló elemzések és hasznos információk biztosítására
-* A Szolgáltatás használatának ellenõrzésére
-* A technikai problémák megelõzésére, észrevételére és megoldására. 
+* A SzolgÃ¡ltatÃ¡s fenntartÃ¡sÃ¡hoz
+* A SzolgÃ¡ltatÃ¡sban beÃ¡llt vÃ¡ltozÃ¡sokrÃ³l valÃ³ Ã©rtesÃ­tÃ©shez
+* A FelhasznÃ¡lÃ³nak biztosÃ­tani a SzolgÃ¡ltatÃ¡s interaktÃ­v funkciÃ³iban valÃ³ rÃ©szvÃ©telt, amikor a FelhasznÃ¡lÃ³ Ãºgy dÃ¶nt
+* Az Ã¼gyfÃ©ltÃ¡mogatÃ¡s cÃ©ljÃ¡ra
+* A SzolgÃ¡ltatÃ¡s fejlesztÃ©sÃ©re szolgÃ¡lÃ³ elemzÃ©sek Ã©s hasznos informÃ¡ciÃ³k biztosÃ­tÃ¡sÃ¡ra
+* A SzolgÃ¡ltatÃ¡s hasznÃ¡latÃ¡nak ellenÃµrzÃ©sÃ©re
+* A technikai problÃ©mÃ¡k megelÃµzÃ©sÃ©re, Ã©szrevÃ©telÃ©re Ã©s megoldÃ¡sÃ¡ra. 
 
-Felhasználói adatok átvitele 
+FelhasznÃ¡lÃ³i adatok Ã¡tvitele 
 
-Lehetséges, hogy a Felhasználó adatai, köztük a személyes adatok, a Felhasználó városán, államán, országán vagy egyéb joghatóságon kívül kívül van tárolva, ahol az adatvédelmi törvények eltérhetnek a Felhasználó joghatóságától.
+LehetsÃ©ges, hogy a FelhasznÃ¡lÃ³ adatai, kÃ¶ztÃ¼k a szemÃ©lyes adatok, a FelhasznÃ¡lÃ³ vÃ¡rosÃ¡n, Ã¡llamÃ¡n, orszÃ¡gÃ¡n vagy egyÃ©b joghatÃ³sÃ¡gon kÃ­vÃ¼l kÃ­vÃ¼l van tÃ¡rolva, ahol az adatvÃ©delmi tÃ¶rvÃ©nyek eltÃ©rhetnek a FelhasznÃ¡lÃ³ joghatÃ³sÃ¡gÃ¡tÃ³l.
 
-Ha a Felhasználó Magyarországon kívül tartózkodik és úgy dönt, hogy információt szolgáltat nekünk, kérjük vegye figyelembe, hogy az adatokat, köztük a személyes adatokat Magyarországon kezeljük.
+Ha a FelhasznÃ¡lÃ³ MagyarorszÃ¡gon kÃ­vÃ¼l tartÃ³zkodik Ã©s Ãºgy dÃ¶nt, hogy informÃ¡ciÃ³t szolgÃ¡ltat nekÃ¼nk, kÃ©rjÃ¼k vegye figyelembe, hogy az adatokat, kÃ¶ztÃ¼k a szemÃ©lyes adatokat MagyarorszÃ¡gon kezeljÃ¼k.
 
-A Felhasználó beleegyezése az Adatvédelmi Nyilatkozatba és a felhasználói adatok megadása kinyilvánítja a Felhasználó beleegyezését a felhasználói adatok Magyarországon való tárolásába.
+A FelhasznÃ¡lÃ³ beleegyezÃ©se az AdatvÃ©delmi Nyilatkozatba Ã©s a felhasznÃ¡lÃ³i adatok megadÃ¡sa kinyilvÃ¡nÃ­tja a FelhasznÃ¡lÃ³ beleegyezÃ©sÃ©t a felhasznÃ¡lÃ³i adatok MagyarorszÃ¡gon valÃ³ tÃ¡rolÃ¡sÃ¡ba.
 
-A Házizz minden szükséges lépést megtesz, hogy biztosítsa a felhasználói adatok biztonságos kezelését összhangban ezzel az Adatvédelmi Nyilatkozattal. A Felhasználó semmilyen adata nem kerül átvitelre egyetlen szervezetnek vagy országnak sem a felhasználói adatok megfelelõ védelme nélkül.
+A HÃ¡zizz minden szÃ¼ksÃ©ges lÃ©pÃ©st megtesz, hogy biztosÃ­tsa a felhasznÃ¡lÃ³i adatok biztonsÃ¡gos kezelÃ©sÃ©t Ã¶sszhangban ezzel az AdatvÃ©delmi Nyilatkozattal. A FelhasznÃ¡lÃ³ semmilyen adata nem kerÃ¼l Ã¡tvitelre egyetlen szervezetnek vagy orszÃ¡gnak sem a felhasznÃ¡lÃ³i adatok megfelelÃµ vÃ©delme nÃ©lkÃ¼l.
 
-Felhasználói adatok kiadása
+FelhasznÃ¡lÃ³i adatok kiadÃ¡sa
 
-Jogi kötelezettségek
+Jogi kÃ¶telezettsÃ©gek
 
-A Házizz kiadhatja a Felhasználó személyes adatait abban az esetben, ha ez szükséges:
+A HÃ¡zizz kiadhatja a FelhasznÃ¡lÃ³ szemÃ©lyes adatait abban az esetben, ha ez szÃ¼ksÃ©ges:
 
-* Jogi kötelezettség teljesítéséhez
-* A Házizz jogainak védelméhez
-* A Szolgáltatással kapcsolatos méltánytalanságok megelõzéséhez vagy felderítéséhez
-* A Felhasználók biztonságának védelméhez
+* Jogi kÃ¶telezettsÃ©g teljesÃ­tÃ©sÃ©hez
+* A HÃ¡zizz jogainak vÃ©delmÃ©hez
+* A SzolgÃ¡ltatÃ¡ssal kapcsolatos mÃ©ltÃ¡nytalansÃ¡gok megelÃµzÃ©sÃ©hez vagy felderÃ­tÃ©sÃ©hez
+* A FelhasznÃ¡lÃ³k biztonsÃ¡gÃ¡nak vÃ©delmÃ©hez
 
-Felhasználói adatok biztonsága
+FelhasznÃ¡lÃ³i adatok biztonsÃ¡ga
 
-A Felhasználók adatainak biztonsága fontos számunkra, de fontos tudni, hogy egyetlen interneten folyó átviteli módser, vagy elektronikus tárolási módszer sem száz-százalékban biztonságos. Bár próbáljuk naprakész eszközökkel védeni a Felhasználók adatait, a teljes biztonságukat nem tudjuk garantálni.
+A FelhasznÃ¡lÃ³k adatainak biztonsÃ¡ga fontos szÃ¡munkra, de fontos tudni, hogy egyetlen interneten folyÃ³ Ã¡tviteli mÃ³dser, vagy elektronikus tÃ¡rolÃ¡si mÃ³dszer sem szÃ¡z-szÃ¡zalÃ©kban biztonsÃ¡gos. BÃ¡r prÃ³bÃ¡ljuk naprakÃ©sz eszkÃ¶zÃ¶kkel vÃ©deni a FelhasznÃ¡lÃ³k adatait, a teljes biztonsÃ¡gukat nem tudjuk garantÃ¡lni.
 
-A Szolgáltatás Biztosítói
+A SzolgÃ¡ltatÃ¡s BiztosÃ­tÃ³i
 
-A Házizz alkalmazhat harmadik feleket, cégeket és egyéneket, a Szolgáltatás fenntartásához („A Szolgáltatás Biztosítói”), hogy biztosítsák a Szolgáltatást, hogy a Szolgáltatáshoz kötõdõ szolgáltatásokat nyújtsanak vagy segítsék a Házizzt a Szolgáltatás használatának elemzésében. 
+A HÃ¡zizz alkalmazhat harmadik feleket, cÃ©geket Ã©s egyÃ©neket, a SzolgÃ¡ltatÃ¡s fenntartÃ¡sÃ¡hoz (â€A SzolgÃ¡ltatÃ¡s BiztosÃ­tÃ³iâ€), hogy biztosÃ­tsÃ¡k a SzolgÃ¡ltatÃ¡st, hogy a SzolgÃ¡ltatÃ¡shoz kÃ¶tÃµdÃµ szolgÃ¡ltatÃ¡sokat nyÃºjtsanak vagy segÃ­tsÃ©k a HÃ¡zizzt a SzolgÃ¡ltatÃ¡s hasznÃ¡latÃ¡nak elemzÃ©sÃ©ben. 
 
-Ezek a harmadik felek csak ezeknek a feladatoknak az elvégzése végett szerezhetnek hozzáférést a Felhasználói Adatokhoz, és kötelesek nem kiadni vagy más célokra felhasználni. 
+Ezek a harmadik felek csak ezeknek a feladatoknak az elvÃ©gzÃ©se vÃ©gett szerezhetnek hozzÃ¡fÃ©rÃ©st a FelhasznÃ¡lÃ³i Adatokhoz, Ã©s kÃ¶telesek nem kiadni vagy mÃ¡s cÃ©lokra felhasznÃ¡lni. 
 
-Linkek más weboldalakra
+Linkek mÃ¡s weboldalakra
 
-A Szolgáltatás tartalmazhat linkeket más, nem általunk mûködtetett weboldalra. Ha a Felhasználó egy ilyen linkre kattint, át lesz irányítva egy harmadik féltõl származó weboldalra. Erõsen ajánljuk az összes ilyen meglátogatott weboldal Adatvédelmi Nyilatkozatának átolvasását. A Házizznak nincs befolyása és nem vállal felelõsséget az ezeken a harmadik féltõl származó weboldalakon található tartalomért és Adatvédelmi Nyilatkozatért.
+A SzolgÃ¡ltatÃ¡s tartalmazhat linkeket mÃ¡s, nem Ã¡ltalunk mÃ»kÃ¶dtetett weboldalra. Ha a FelhasznÃ¡lÃ³ egy ilyen linkre kattint, Ã¡t lesz irÃ¡nyÃ­tva egy harmadik fÃ©ltÃµl szÃ¡rmazÃ³ weboldalra. ErÃµsen ajÃ¡nljuk az Ã¶sszes ilyen meglÃ¡togatott weboldal AdatvÃ©delmi NyilatkozatÃ¡nak Ã¡tolvasÃ¡sÃ¡t. A HÃ¡zizznak nincs befolyÃ¡sa Ã©s nem vÃ¡llal felelÃµssÃ©get az ezeken a harmadik fÃ©ltÃµl szÃ¡rmazÃ³ weboldalakon talÃ¡lhatÃ³ tartalomÃ©rt Ã©s AdatvÃ©delmi NyilatkozatÃ©rt.
 
-A gyerekek adatvédelme
+A gyerekek adatvÃ©delme
 
-Személyes adatot tizennyolc éven aluli személytõl csak szülõi engedéllyel gyûjtünk. Ha tudomásunkra jut, hogy személyes adatot gyûjtöttünk egy gyerektõl szülõi engedély nélkül, megteszünk minden lépést, hogy azt az információ a szervereinkrõl eltávolítsuk.
+SzemÃ©lyes adatot tizennyolc Ã©ven aluli szemÃ©lytÃµl csak szÃ¼lÃµi engedÃ©llyel gyÃ»jtÃ¼nk. Ha tudomÃ¡sunkra jut, hogy szemÃ©lyes adatot gyÃ»jtÃ¶ttÃ¼nk egy gyerektÃµl szÃ¼lÃµi engedÃ©ly nÃ©lkÃ¼l, megteszÃ¼nk minden lÃ©pÃ©st, hogy azt az informÃ¡ciÃ³ a szervereinkrÃµl eltÃ¡volÃ­tsuk.
 
-Változtatások ebben a Nyilatkozatban
+VÃ¡ltoztatÃ¡sok ebben a Nyilatkozatban
 
-A Házizz frissítheti ezt az Adatvédelmi Nyilatkozatot idõrõl idõre. A Felhasználót értesítjük a változásokról azzal, hogy kirakjuk az új Adatvédelmi Nyilatkozatot erre az oldalra.
-A Felhasználót a változások elõtt e-mailben vagy a Szolgáltatásban értesítjük a változások hatályba lépése elõtt, és frissítjük a hatályba lépés dátumát ennek az Adatvédelmi Nyilatkozatnak a tetején. Tanácsos az Adatvédelmi Nyilatkozatot rendszeresen átolvasni a változások miatt. A változások az Adatvédelmi Nyilatkozatban akkor lépnek hatályba, amikor erre az oldalra kikerülnek.
+A HÃ¡zizz frissÃ­theti ezt az AdatvÃ©delmi Nyilatkozatot idÃµrÃµl idÃµre. A FelhasznÃ¡lÃ³t Ã©rtesÃ­tjÃ¼k a vÃ¡ltozÃ¡sokrÃ³l azzal, hogy kirakjuk az Ãºj AdatvÃ©delmi Nyilatkozatot erre az oldalra.
+A FelhasznÃ¡lÃ³t a vÃ¡ltozÃ¡sok elÃµtt e-mailben vagy a SzolgÃ¡ltatÃ¡sban Ã©rtesÃ­tjÃ¼k a vÃ¡ltozÃ¡sok hatÃ¡lyba lÃ©pÃ©se elÃµtt, Ã©s frissÃ­tjÃ¼k a hatÃ¡lyba lÃ©pÃ©s dÃ¡tumÃ¡t ennek az AdatvÃ©delmi Nyilatkozatnak a tetejÃ©n. TanÃ¡csos az AdatvÃ©delmi Nyilatkozatot rendszeresen Ã¡tolvasni a vÃ¡ltozÃ¡sok miatt. A vÃ¡ltozÃ¡sok az AdatvÃ©delmi Nyilatkozatban akkor lÃ©pnek hatÃ¡lyba, amikor erre az oldalra kikerÃ¼lnek.
 
-Elérhetõség
+ElÃ©rhetÃµsÃ©g
 
-Ha bármilyen kérdés merülne fel az Adatvédelmi Nyilatkozattal kapcsolatban, a Házizz elérhetõsége:
-* e-mail címünk: hazizzvelunk@gmail.com
+Ha bÃ¡rmilyen kÃ©rdÃ©s merÃ¼lne fel az AdatvÃ©delmi Nyilatkozattal kapcsolatban, a HÃ¡zizz elÃ©rhetÃµsÃ©ge:
+* e-mail cÃ­mÃ¼nk: hazizzvelunk@gmail.com
