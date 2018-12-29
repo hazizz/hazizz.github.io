@@ -1,3 +1,35 @@
+.bg-red {
+    background-color: #f23c50;
+}
+
+.brand-logo {
+    max-height: 100px;
+    margin: -50% 0;
+}
+
+.bg-grey {
+    background-color: #e9f1df;
+}
+
+.bg-beige {
+    background-color: beige;
+}
+
+.bg-lsb {
+    background-color: lightgoldenrodyellow;
+}
+
+.bg-darker {
+    background-color: rgba(0, 0, 0, 5%);
+}
+
+.anchor {
+    position: absolute;
+    left: 0;
+    top: -70px;
+}
+
+/******************************************************/
 .container {
     max-width: 960px;
 }
@@ -30,7 +62,9 @@
     }
 }
 
-.overflow-hidden { overflow: hidden; }
+.overflow-hidden {
+    overflow: hidden;
+}
 
 .title-font-family{
     font-family: "Architects Daughter";
