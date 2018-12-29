@@ -52,7 +52,7 @@
             <h1 class="d-block d-md-none title-font-family">Házizz</h1>
             <h3 class="d-none d-md-block description-font-family">A Z generáció házi feladat fóruma.</h3>
             <h5 class="d-block d-md-none description-font-family">A Z generáció házi feladat fóruma.</h5>
-            <a class="btn btn-outline-success" href="">
+            <a class="btn btn-outline-success disabled" href="">
                 <span class="d-none d-md-block lead">Bejelentkezés!<br>
                 <small>(Fejlesztés alatt)</small></span>
                 <span class="d-block d-md-none">Bejelentkezés!<br>
@@ -64,41 +64,45 @@
 
 <main>
     <!-- Project -->
-    <section class="py-3 bg-beige position-relative">
+    <section class="py-3 bg-lblue position-relative">
         <a name="project" class="anchor"></a>
         <div class="container">
             <h1 class="d-none d-md-block title-font-family mb-4 text-center">A projektről</h1>
             <h3 class="d-block d-md-none title-font-family mb-4 text-center">A projektről</h3>
             <div class="row">
                 <div class="col-md-6 mb-3 mb-md-0">
-                    <div class="card bg-info text-light">
+                    <div class="card bg-blue text-light">
                         <div class="card-header text-center">
                             <h1 class="d-none d-md-block card-title m-0">Koncepció</h1>
                             <h3 class="d-block d-md-none card-title m-0">Koncepció</h3>
                         </div>
                         <div class="card-body">
                             <p class="card-text lead">
-                                A Házizz célja hogy a házifeladat felírás rémálmát egy közösségi
-                                élménnyé tegye, úgy hogy azt közben a felhasználók számára élvezetes legyen!
+                                A Házizz célja hogy a házifeladat felírás rémálmát egy sétává tegye a parkban, úgy
+                                hogy ez közben téged is segít a munkában.<br>
+                                Hogyan?
+                                    <br> * Könnyen elérhető felületet szolgáltat az elvégzendő dolgok tárolására
+                                    <br> * Integrációt biztosít a kedvenc platformjaidhoz (jövőben)
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="card bg-success text-light">
+                    <div class="card bg-green text-light">
                         <div class="card-header text-center">
                             <h1 class="d-none d-md-block card-title m-0">Müködésről</h1>
                             <h3 class="d-block d-md-none card-title m-0">Müködésről</h3>
                         </div>
                         <div class="card-body">
                             <p class="card-text lead">
-                                Mindenek mögött egy REST szerver áll, amivel akármilyen program
-                                kommunikálhat az interneten keresztül, így garantálva az igazi multiplatform
-                                élményt.<br>
-                                Az általunk fejlesztett kliensek nyíltan elérhetőek a Házizz
-                                <a href="https://github.com/hazizz" class="card-link badge badge-light">hivatalos
-                                    Github</a> oldalán. De ha úgy gondolod
-                                hogy Te jobbat tudsz készíteni akkor lehetőséged van sajátot készíteni. <br>
+                                Mindenek mögött egy REST alapú platform áll, ami egy univerzális
+                                nyelvet biztosít a kliensek között az interneten,
+                                így garantálva hogy mindenhol megbízhatóan, és probléma mentesen
+                                élvezhetitek a szolgáltatást.<br>
+                                Az általunk fejlesztett kliensek nyílt forráskódúak, emiatt ha szeretnél te is
+                                szerencsét próbálhatsz, vagy segíthetsz nekünk a saját tudásoddal a Házizz hivatalos
+                                <a href="https://github.com/hazizz" class="card-link badge badge-light">Github</a> oldalán.
+                                <br> Ha elhatároztad hogy a platformunkon szeretnél fejleszteni, akkor sok sikert kívánunk!
                                 <small>
                                     <a href="https://documenter.getpostman.com/view/5139955/RWgtTxRj"
                                        class="card-link badge badge-light">(Fejlesztői
@@ -113,13 +117,13 @@
     </section>
 
     <!-- Team -->
-    <section class="py-3 bg-lsb position-relative">
+    <section class="py-3 bg-yellow position-relative">
         <a name="team" class="anchor"></a>
         <div class="container">
             <h1 class="d-none d-md-block title-font-family text-center mb-md-4">Csapatunk</h1>
             <h3 class="d-block d-md-none title-font-family text-center mb-md-4">Csapatunk</h3>
             <p class="description-font-family text-center lead">Egy csapat pesti diák vagyunk akik úgy érezték, hogy
-                egyetlen platform se próbálja megoldani az ezer éves problémát, hogy "Mi volt a házi?".</p>
+                egyetlen platform se próbálja megoldani a mi legnagyobb problémánkat, hogy "Mi volt a házifeladat?".</p>
             <div class="row">
                 <div class="col-md-4 mb-3 mb-md-0">
                     <div class="list-group" id="list-tab" role="tablist">
@@ -137,44 +141,47 @@
                            role="tab" aria-controls="avar">Vad Avar</a>
                     </div>
                 </div>
-                <div class="col-md-8 d-flex align-items-center justify-content-center bg-darker rounded">
+                <div class="col-md-8 d-flex align-items-center justify-content-center bg-grey rounded">
                     <div class="tab-content" id="nav-tabContent">
                         <div class="tab-pane fade show text-center active" id="list-hg" role="tabpanel"
                              aria-labelledby="gergo">
-                            <h2 class="d-none d-md-block"><i class="fas fa-dollar-sign fa-lg"></i> Chief Marketing
-                                Officer <i class="fas fa-dollar-sign fa-lg"></i></h2>
-                            <h4 class="d-block d-md-none"><i class="fas fa-dollar-sign fa-sm"></i> Chief Marketing
-                                Officer <i class="fas fa-dollar-sign fa-sm"></i></h4>
+                            <h2 class="d-none d-md-block"><i class="fas fa-dollar-sign fa-lg"></i> Marketing
+                                <i class="fas fa-dollar-sign fa-lg"></i></h2>
+                            <h4 class="d-block d-md-none"><i class="fas fa-dollar-sign fa-sm"></i> Marketing
+                                <i class="fas fa-dollar-sign fa-sm"></i></h4>
                             <h4>Horváth <i>"Gergő"</i> Gergely</h4>
                             <p class="lead">Ezen felül hallgat a következőkre: Béla, OK Google, és a Házizz team
                                 macskájának a gazdájára</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-ie" role="tabpanel" aria-labelledby="erik">
-                            <h2 class="d-none d-md-block"><i class="fab fa-android fa-lg"></i> Androidos részleg
-                                vezetője <i class="fab fa-android fa-lg"></i></h2>
-                            <h4 class="d-block d-md-none"><i class="fab fa-android fa-sm"></i> Androidos részleg
-                                vezetője <i class="fab fa-android fa-sm"></i></h4>
-                            <h4>Isakov <i>"Zsarnok"</i> Erik</h4>
-                            <p class="lead">Nincs arany köpésem: fantáziátlan vagyok.</p>
+                            <h2 class="d-none d-md-block"><i class="fab fa-android fa-lg"></i> Android guru
+                                <i class="fab fa-android fa-lg"></i></h2>
+                            <h4 class="d-block d-md-none"><i class="fab fa-android fa-sm"></i> Android guru
+                                <i class="fab fa-android fa-sm"></i></h4>
+                            <h4>Isakov <i>"Türannosz"</i> Erik</h4>
+                            <p class="lead">java.lang.NullPointerException
+                                at arany.kopes.lekerdez(irl1.java:17)</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-la" role="tabpanel" aria-labelledby="alexa">
-                            <h2 class="d-none d-md-block"><i class="fas fa-pencil-alt fa-lg"></i> Chief Data Officer <i
+                            <h2 class="d-none d-md-block"><i class="fas fa-pencil-alt fa-lg"></i> Vezető dízájner <i
                                     class="fas fa-pencil-alt fa-lg"></i></h2>
-                            <h4 class="d-block d-md-none"><i class="fas fa-pencil-alt fa-sm"></i> Chief Data Officer <i
+                            <h4 class="d-block d-md-none"><i class="fas fa-pencil-alt fa-sm"></i> Vezető dízájner <i
                                     class="fas fa-pencil-alt fa-sm"></i></h4>
                             <h4>Leszkovszky <i>"Alexa"</i> Alexandra</h4>
                             <p class="lead">Az nincs, találjatok ki egyet.</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-sk" role="tabpanel" aria-labelledby="kornel">
-                            <h2 class="d-none d-md-block"><i class="fas fa-info fa-lg"></i> Chief Information Officer <i
-                                    class="fas fa-info fa-lg"></i></h2>
-                            <h4 class="d-block d-md-none"><i class="fas fa-info fa-sm"></i> Chief Information Officer <i
-                                    class="fas fa-info fa-sm"></i></h4>
+                            <h2 class="d-none d-md-block"><i class="fas fa-info fa-lg"></i> Architect
+                                <i class="fas fa-info fa-lg"></i></h2>
+                            <h4 class="d-block d-md-none"><i class="fas fa-info fa-sm"></i> Architect
+                                <i class="fas fa-info fa-sm"></i></h4>
                             <h4>Stefán <i>"Kőőőrnél"</i> Kornél</h4>
-                            <p class="lead">Helló! Béla vagyok!</p>
+                            <p class="lead">Ha nem megy a szerver őt kell szídni, vagy a szolgáltatót! (Mind a ketten
+                                tudjuk hogy ki fogja az értesítéseket kapni)</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-bd" role="tabpanel" aria-labelledby="vori">
-                            <h2 class="d-none d-md-block">Vogons view with death!</h2>
+                            <h2 class="d-none d-md-block"><i class="fas fa-skull-crossbones"></i> Vogons view with death!
+                                <i class="fas fa-skull-crossbones"></i></h2>
                             <h4 class="d-block d-md-none">Vogons view with death!</h4>
                             <h4>Bíró <i>"Vöröske"</i> Dávid</h4>
                             <p class="lead">Anomaly, adventure, and alarm. Parrots sing with fight at the scurvy port
@@ -186,7 +193,8 @@
                             <h4 class="d-block d-md-none"><i class="fas fa-sitemap fa-sm"></i> Webfejlesztő <i
                                     class="fas fa-sitemap fa-sm"></i></h4>
                             <h4>Vad <i>"Avi"</i> Avar</h4>
-                            <p class="lead">Előbb-utóbb elkészül, ha nem a jövőhétre, majd azutánra.</p>
+                            <p class="lead">Előbb-utóbb elkészül, ha nem a jövőhétre, majd azutánra.
+                                <i class="fas fa-spider"></i></p>
                         </div>
                     </div>
                 </div>
@@ -195,39 +203,39 @@
     </section>
 
     <!-- Download -->
-    <section class="py-3 bg-darker position-relative">
+    <section class="py-3 bg-lblue position-relative">
         <a name="download" class="anchor"></a>
         <div class="container">
             <h1 class="d-none d-md-block title-font-family text-center mb-md-4">Letöltés</h1>
             <h3 class="d-block d-md-none title-font-family text-center mb-md-4">Letöltés</h3>
             <div class="row">
                 <div class="col-md-6 mb-3 mb-md-3">
-                    <div class="card bg-primary text-light">
+                    <div class="card bg-green text-light">
                         <div class="card-header">
-                            <h1 class="d-none d-md-block card-title text-center m-0">Androidos verzió</h1>
-                            <h3 class="d-block d-md-none card-title text-center m-0">Androidos verzió</h3>
+                            <h1 class="d-none d-md-block card-title text-center m-0">Androidos kliens</h1>
+                            <h3 class="d-block d-md-none card-title text-center m-0">Androidos kliens</h3>
                         </div>
                         <div class="card-body">
                             <p class="card-text lead">Az applikácót a későbbiekben a Google Play Áruházból lehet majd
                                 letölteni.</p>
                         </div>
                         <div class="card-footer">
-                            Későbbiekben lesz elérhető (zárt bétás tesztelés folyik...)
+                            A közel jövőben elérhető lesz (nyílt tesztelés hamarosan...)
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="card bg-warning text-light">
+                    <div class="card bg-blue text-light">
                         <div class="card-header">
-                            <h1 class="d-none d-md-block card-title text-center m-0">Webes verzió</h1>
-                            <h3 class="d-block d-md-none card-title text-center m-0">Webes verzió</h3>
+                            <h1 class="d-none d-md-block card-title text-center m-0">Webes kliens</h1>
+                            <h3 class="d-block d-md-none card-title text-center m-0">Webes kliens</h3>
                         </div>
                         <div class="card-body">
-                            <p class="card-text lead">A webes verziót itt lehet majd elérni. Egyelőre kidolgozás
-                                alatt.</p>
+                            <p class="card-text lead">A webes verziót ezen a weboldalon lesz elérhető, amint a
+                                a fejlesztés elér oda.</p>
                         </div>
                         <div class="card-footer">
-                            Későbbiekben lesz elérhető (kidolgozás alatt...)
+                            A jövőben lesz elérhető (majd~...)
                         </div>
                     </div>
                 </div>

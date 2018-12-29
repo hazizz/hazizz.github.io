@@ -7,20 +7,36 @@
     margin: -50% 0;
 }
 
+.list-group-item.active {
+    background-color: #f23c50 !important;
+}
+
+.list-group-item{
+    background-color: #e9f1df !important;
+}
+
 .bg-grey {
     background-color: #e9f1df;
 }
 
-.bg-beige {
-    background-color: beige;
+.bg-lblue {
+    background-color: #4ad9d9;
 }
 
-.bg-lsb {
-    background-color: lightgoldenrodyellow;
+.bg-blue {
+    background-color: #4995d9;
+}
+
+.bg-green {
+    background-color: #49d96b;
+}
+
+.bg-yellow {
+    background-color: #ffcb05;
 }
 
 .bg-darker {
-    background-color: rgba(0, 0, 0, 5%);
+    background-color: #e9f1df;
 }
 
 .anchor {
