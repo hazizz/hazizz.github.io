@@ -132,7 +132,9 @@
             <div class="row">
                 <div class="col-md-4 mb-3 mb-md-0">
                     <div class="list-group" id="list-tab" role="tablist">
-                        <a class="list-group-item list-group-item-action active" id="gergo" data-toggle="list"
+                        <a class="list-group-item list-group-item-action active" id="vori" data-toggle="list" href="#list-bd"
+                           role="tab" aria-controls="vori">Bíró Dávid</a>
+                        <a class="list-group-item list-group-item-action" id="gergo" data-toggle="list"
                            href="#list-hg" role="tab" aria-controls="gergo">Horváth Gergely</a>
                         <a class="list-group-item list-group-item-action" id="erik" data-toggle="list" href="#list-ie"
                            role="tab" aria-controls="erik">Isakov Erik</a>
@@ -140,15 +142,21 @@
                            role="tab" aria-controls="alexa">Leszkovszky Alexandra</a>
                         <a class="list-group-item list-group-item-action" id="kornel" data-toggle="list" href="#list-sk"
                            role="tab" aria-controls="kornel">Stefán Kornél</a>
-                        <a class="list-group-item list-group-item-action" id="vori" data-toggle="list" href="#list-bd"
-                           role="tab" aria-controls="vori">Bíró Dávid</a>
                         <a class="list-group-item list-group-item-action" id="avar" data-toggle="list" href="#list-va"
                            role="tab" aria-controls="avar">Vad Avar</a>
                     </div>
                 </div>
                 <div class="col-md-8 d-flex align-items-center justify-content-center bg-grey rounded">
                     <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show text-center active" id="list-hg" role="tabpanel"
+                        <div class="tab-pane fade show text-center active" id="list-bd" role="tabpanel" aria-labelledby="vori">
+                            <h2 class="d-none d-md-block"><i class="fas fa-chart-pie"></i> Biznisz guy
+                                <i class="fas fa-chart-pie"></i></h2>
+                            <h4 class="d-block d-md-none"><i class="fas fa-chart-pie"></i> Biznisz guy
+                                <i class="fas fa-chart-pie"></i></h4>
+                            <h4>Bíró <i>"Vöröske"</i> Dávid</h4>
+                            <p class="lead">... Na ezzel lesznek a bajok!</p>
+                        </div>
+                        <div class="tab-pane fade text-center" id="list-hg" role="tabpanel"
                              aria-labelledby="gergo">
                             <h2 class="d-none d-md-block"><i class="fas fa-dollar-sign fa-lg"></i> Marketing
                                 <i class="fas fa-dollar-sign fa-lg"></i></h2>
@@ -184,17 +192,6 @@
                             <p class="lead">Ha nem megy a szerver őt kell szídni, vagy a szolgáltatót! (Mind a ketten
                                 tudjuk hogy ki fogja az értesítéseket kapni)</p>
                         </div>
-                        <div class="tab-pane fade text-center" id="list-bd" role="tabpanel" aria-labelledby="vori">
-                            <h2 class="d-none d-md-block"><i class="fas fa-skull-crossbones fa-lg"></i> Vogons view with
-                                death!
-                                <i class="fas fa-skull-crossbones fa-lg"></i></h2>
-                            <h4 class="d-block d-md-none"><i class="fas fa-skull-crossbones fa-sm"></i> Vogons view with
-                                death!
-                                <i class="fas fa-skull-crossbones fa-sm"></i></h4>
-                            <h4>Bíró <i>"Vöröske"</i> Dávid</h4>
-                            <p class="lead">Anomaly, adventure, and alarm. Parrots sing with fight at the scurvy port
-                                royal!</p>
-                        </div>
                         <div class="tab-pane fade text-center" id="list-va" role="tabpanel" aria-labelledby="avar">
                             <h2 class="d-none d-md-block"><i class="fas fa-sitemap fa-lg"></i> Webfejlesztő <i
                                     class="fas fa-sitemap fa-lg"></i></h2>
@@ -224,12 +221,16 @@
                             <h3 class="d-block d-md-none card-title text-center m-0">Androidos kliens</h3>
                         </div>
                         <div class="card-body">
-                            <p class="card-text lead">Az applikácót a későbbiekben a Google Play Áruházból lehet majd
-                                letölteni.</p>
+                            <p class="card-text lead">Az applikáció elérhető tesztelés céljára:</p>
+                            <form action="https://betas.to/gufLJq5S">
+                                <button type="submit" class="btn btn-primary bg-blue" href>Letöltés</button>
+                            </form>
+                            <p class="card-text lead">Videó a telepítéshez:</p>
                             <div class="embed-responsive embed-responsive-16by9">
                                 <iframe src="https://drive.google.com/file/d/1oZDiDvdAuA6KmQknf5yoWdBjhw_xOg3T/preview"
                                         width="640" height="480"></iframe>
                             </div>
+
                         </div>
                         <div class="card-footer">
                             <a class="card-link text-light" href="download-android.html">A telepítés részletesebb
@@ -248,7 +249,7 @@
                                 a fejlesztés elér oda.</p>
                         </div>
                         <div class="card-footer">
-                            A jövőben lesz elérhető (majd~...)
+                            A jövőben lesz elérhető (majd~)
                         </div>
                     </div>
                 </div>
