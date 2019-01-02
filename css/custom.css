@@ -1,18 +1,6 @@
+/* Backgrounds */
 .bg-red {
     background-color: #f23c50;
-}
-
-.brand-logo {
-    max-height: 100px;
-    margin: -50% 0;
-}
-
-.list-group-item.active {
-    background-color: #f23c50 !important;
-}
-
-.list-group-item{
-    background-color: #e9f1df !important;
 }
 
 .bg-grey {
@@ -39,49 +27,37 @@
     background-color: #e9f1df;
 }
 
+/* Navigation */
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.brand-logo {
+    max-height: 100px;
+    margin: -50% 0;
+}
+
+.list-group-item.active {
+    background-color: #f23c50 !important;
+}
+
+.list-group-item {
+    background-color: #e9f1df !important;
+}
+
+/* Addon */
 .anchor {
     position: absolute;
     left: 0;
     top: -70px;
 }
 
-/******************************************************/
-.container {
-    max-width: 960px;
+/* Signin */
+.signig-logo {
+    max-width: 100px;
 }
 
-/*
- * Dummy devices (replace them with your own or something else entirely!)
- */
-
-.product-device-2 {
-    top: -25%;
-    right: auto;
-    bottom: 0;
-    left: 5%;
-    background-color: #e5e5e5;
-}
-
-
-/*
- * Extra utilities
- */
-
-.flex-equal > * {
-    -ms-flex: 1;
-    flex: 1;
-}
-@media (min-width: 768px) {
-    .flex-md-equal > * {
-        -ms-flex: 1;
-        flex: 1;
-    }
-}
-
-.overflow-hidden {
-    overflow: hidden;
-}
-
+/* Fonts */
 .title-font-family{
     font-family: "Architects Daughter";
 }
