@@ -1,30 +1,53 @@
-/* Backgrounds */
-.bg-red {
-    background-color: #f23c50;
+body {
+    background-image: url("../assets/bg.png");
+    background-position: top center;
+    background-repeat: repeat-y;
+    background-size: cover;
 }
 
-.bg-grey {
-    background-color: #e9f1df;
+nav {
+    background-image: url("../assets/menu.png");
+    background-position: bottom center;
+    background-size: cover;
+    font-size: 1.3em;
+    background-repeat: no-repeat;
 }
 
-.bg-lblue {
+section {
+    margin: 50px 0;
+}
+
+.btn-hazizz {
+    color: #000;
     background-color: #4ad9d9;
+    border-color: #3ba1a1;
 }
 
-.bg-blue {
-    background-color: #4995d9;
+.dev {
+    font-size: 1.2em;
 }
 
-.bg-green {
-    background-color: #49d96b;
+.or {
+    font-size: 2em;
+    font-weight: bold;
 }
 
-.bg-yellow {
-    background-color: #ffcb05;
+.lead {
+    font-size: 2em;
+    text-align: center;
 }
 
-.bg-darker {
-    background-color: #e9f1df;
+#telefon {
+    display: block;
+    max-height: 60vh;
+    margin: auto;
+}
+
+@media (min-width: 768px) {
+    #telefon {
+        margin: 0;
+        margin-left: auto;
+    }
 }
 
 /* Navigation */
@@ -33,28 +56,29 @@
 }
 
 .brand-logo {
-    max-height: 100px;
-    margin: -50% 0;
+    max-height: 90px;
 }
 
 .list-group-item.active {
-    background-color: #f23c50 !important;
+    background-color: #999999 !important;
 }
 
 .list-group-item {
     background-color: #e9f1df !important;
 }
 
-/* Addon */
 .anchor {
     position: absolute;
     left: 0;
     top: -70px;
 }
 
-/* Signin */
-.signig-logo {
-    max-width: 100px;
+.nav-item.active > a {
+    font-style: italic;
+}
+
+.nav-link {
+    color: black !important;
 }
 
 /* Fonts */
@@ -63,15 +87,10 @@
 }
 
 .description-font-family{
-    font-family: "Bentham";
+    font-family: "Montserrat";
 }
 
 @font-face {
     font-family: 'Architects Daughter';
     src: url('../assets/ArchitectsDaughter.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Bentham';
-    src: url('../assets/Bentham.otf') format('opentype');
 }
