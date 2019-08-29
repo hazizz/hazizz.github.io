@@ -28,7 +28,7 @@
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <ul class="d-block d-md-none list-unstyled list-inline">
+    <ul class="d-none d-sm-block d-md-none list-unstyled list-inline">
         <li class="list-inline-item">
             <a href="https://www.facebook.com/hazizzvelunk/" style="color: #3b5999;">
                 <i class="fab fa-facebook fa-2x"></i>
@@ -159,8 +159,9 @@
     <section id="team" class="position-relative">
         <a name="team" class="anchor"></a>
         <div class="container">
-            <h1 class="d-none d-md-block title-font-family text-white text-center mb-md-4">Csapatunk</h1>
-            <p class="description-font-family lead text-center lead">Egy csapat pesti diák vagyunk akik úgy érezték,
+            <h1 class="title-font-family text-white text-center mb-md-4">Csapatunk</h1>
+            <p class="description-font-family lead text-center lead rounded p-2" style="background: #e9f1df;">Egy csapat
+                pesti diák vagyunk akik úgy érezték,
                 hogy
                 egyetlen platform se próbálja megoldani a mi legnagyobb problémánkat, hogy "Mi volt a házifeladat?".</p>
             <div class="row">
@@ -206,14 +207,14 @@
                                 aria-controls="avar">Vad Avar</a>
                     </div>
                 </div>
-                <div class="col-md-8 d-flex align-items-center justify-content-center bg-grey rounded">
-                    <div class="tab-content" id="nav-tabContent">
+                <div class="col-md-8 d-flex align-items-center justify-content-center whiteboard rounded p-4">
+                    <div class="tab-content bg-transparent" id="nav-tabContent">
                         <div
                                 class="tab-pane fade show text-center active"
                                 id="list-bd"
                                 role="tabpanel"
                                 aria-labelledby="vori">
-                            <h2 class="d-none d-md-block"><i class="fas fa-chart-pie"></i> Biznisz guy
+                            <h2><i class="fas fa-chart-pie"></i> Biznisz guy
                                 <i class="fas fa-chart-pie"></i></h2>
                             <h4>Bíró <i>"Vöröske"</i> Dávid</h4>
                             <p class="lead">... Na ezzel lesznek a bajok!</p>
@@ -221,34 +222,34 @@
                         <div
                                 class="tab-pane fade text-center" id="list-hg" role="tabpanel"
                                 aria-labelledby="gergo">
-                            <h2 class="d-none d-md-block"><i class="fas fa-dollar-sign fa-lg"></i> Marketing
+                            <h2><i class="fas fa-dollar-sign fa-lg"></i> Marketing
                                 <i class="fas fa-dollar-sign fa-lg"></i></h2>
                             <h4>Horváth <i>"Gergő"</i> Gergely</h4>
                             <p class="lead">Ezen felül hallgat a következőkre: Béla, OK Google, és a Házizz team
                                 macskájának a gazdájára</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-ie" role="tabpanel" aria-labelledby="erik">
-                            <h2 class="d-none d-md-block"><i class="fab fa-android fa-lg"></i> Android guru
+                            <h2><i class="fab fa-android fa-lg"></i> Android guru
                                 <i class="fab fa-android fa-lg"></i></h2>
                             <h4>Isakov <i>"Türannosz"</i> Erik</h4>
                             <p class="lead">java.lang.NullPointerException
                                 at arany.kopes.lekerdez(irl1.java:17)</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-la" role="tabpanel" aria-labelledby="alexa">
-                            <h2 class="d-none d-md-block"><i class="fas fa-pencil-alt fa-lg"></i> Vezető dízájner <i
+                            <h2><i class="fas fa-pencil-alt fa-lg"></i> Vezető dízájner <i
                                     class="fas fa-pencil-alt fa-lg"></i></h2>
                             <h4>Leszkovszky <i>"Alexa"</i> Alexandra</h4>
                             <p class="lead">Az nincs, találjatok ki egyet.</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-sk" role="tabpanel" aria-labelledby="kornel">
-                            <h2 class="d-none d-md-block"><i class="fas fa-info fa-lg"></i> Architect
+                            <h2><i class="fas fa-info fa-lg"></i> Architect
                                 <i class="fas fa-info fa-lg"></i></h2>
                             <h4>Stefán <i>"Kőőőrnél"</i> Kornél</h4>
                             <p class="lead">Ha nem megy a szerver őt kell szídni, vagy a szolgáltatót! (Mind a ketten
                                 tudjuk hogy ki fogja az értesítéseket kapni.)</p>
                         </div>
                         <div class="tab-pane fade text-center" id="list-va" role="tabpanel" aria-labelledby="avar">
-                            <h2 class="d-none d-md-block"><i class="fas fa-sitemap fa-lg"></i> Webfejlesztő <i
+                            <h2><i class="fas fa-sitemap fa-lg"></i> Webfejlesztő <i
                                     class="fas fa-sitemap fa-lg"></i></h2>
                             <h4>Vad <i>"Avi"</i> Avar</h4>
                             <p class="lead">Előbb-utóbb elkészül, ha nem a jövőhétre, majd azutánra.
@@ -267,10 +268,15 @@
             <p class="text-center text-white or">vagy</p>
         </div>
         <div class="col-md-5">
-            <a href="" class="btn btn-block btn-hazizz btn-lg">Jelentkezz be!</a>
+            <a href="https://hazizz.github.io/hazizz-webclient/" class="btn btn-block btn-hazizz btn-lg">Jelentkezz
+                be!</a>
         </div>
     </section>
 </main>
+
+<footer class="text-right px-3 text-white">
+    <small>&copy; Házizz velünk &ndash; Minden jog fenntartva!</small>
+</footer>
 
 <!-- Optional JavaScript -->
 <!-- Font Awesome JS -->
