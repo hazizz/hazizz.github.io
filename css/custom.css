@@ -90,6 +90,16 @@ section {
 
 .nav-link {
     color: black !important;
+    transition: 0.2s;
+}
+
+.nav-link:hover {
+    color: grey !important;
+    transition: 0.2s;
+}
+
+.nav-link.nav-no-link {
+    color: lightgrey !important;
 }
 
 /* Fonts */
